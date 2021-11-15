@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ps6/static/css/main.0ce09b49.chunk.css",
+    "main.js": "/ps6/static/js/main.c35389fb.chunk.js",
+    "main.js.map": "/ps6/static/js/main.c35389fb.chunk.js.map",
+    "runtime-main.js": "/ps6/static/js/runtime-main.bb52b68e.js",
+    "runtime-main.js.map": "/ps6/static/js/runtime-main.bb52b68e.js.map",
+    "static/css/2.4659568d.chunk.css": "/ps6/static/css/2.4659568d.chunk.css",
+    "static/js/2.9b5c5640.chunk.js": "/ps6/static/js/2.9b5c5640.chunk.js",
+    "static/js/2.9b5c5640.chunk.js.map": "/ps6/static/js/2.9b5c5640.chunk.js.map",
+    "static/js/3.09940817.chunk.js": "/ps6/static/js/3.09940817.chunk.js",
+    "static/js/3.09940817.chunk.js.map": "/ps6/static/js/3.09940817.chunk.js.map",
+    "index.html": "/ps6/index.html",
+    "static/css/2.4659568d.chunk.css.map": "/ps6/static/css/2.4659568d.chunk.css.map",
+    "static/css/main.0ce09b49.chunk.css.map": "/ps6/static/css/main.0ce09b49.chunk.css.map",
+    "static/js/2.9b5c5640.chunk.js.LICENSE.txt": "/ps6/static/js/2.9b5c5640.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb52b68e.js",
+    "static/css/2.4659568d.chunk.css",
+    "static/js/2.9b5c5640.chunk.js",
+    "static/css/main.0ce09b49.chunk.css",
+    "static/js/main.c35389fb.chunk.js"
+  ]
+}
